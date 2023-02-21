@@ -3,7 +3,7 @@ resource "aws_iam_user" "user_1" {
   
 
   tags = {
-    tag-key = "User_1"
+    tag-key = "User_01"
   }
 }
 // creating access key
